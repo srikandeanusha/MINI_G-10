@@ -1,0 +1,42 @@
+.active
+ {
+     padding-left: 20px;
+     display:inline-block; 
+     margin-right:40px;
+}
+#pid
+{
+    float:right;
+    display: block;
+    align-content: flex-end;
+    font-weight: 200;
+    padding-right: 10px;
+    padding-top: 50px;
+    font-style: oblique;
+    font-size: x-large;
+    font-variant: normal;
+    height: 50px;
+    width: 250px;
+}
+#para
+{
+    float:right;
+    display: block;
+    align-content: flex-end;
+    font-weight: 200;
+    padding-right: 10px;
+    padding-top: 430px;
+    font-style: oblique;
+    font-size: x-large;
+    font-variant: normal;
+    height:50px ;
+    width: 450px;
+
+}
+
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,28,121,1) 39%, rgba(0,212,255,1) 100%);
+}
+.modal-header, .modal-body{
+    background-color: rgb(28, 163, 216);
+}
