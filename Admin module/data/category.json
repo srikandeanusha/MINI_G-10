@@ -1,0 +1,66 @@
+{
+  "JS": [
+    {
+      "Question": "Inside which HTML element do we put the JavaScript?",
+      "Option": [
+        "js",
+        "javascritp",
+        "scripting",
+        "script"
+      ],
+      "Correctans": "4",
+      "Weightage": "2",
+      "id": 1
+    },
+    {
+      "Question": "why is JS used",
+      "Option": [
+        "Scripting language",
+        "styling",
+        "bored",
+        "idk"
+      ],
+      "Correctans": "1",
+      "Weightage": "3",
+      "id": 2
+    }
+  ],
+  "HTML": [
+    {
+      "Question": "Updated question is done",
+      "id": 1
+    },
+    {
+      "Question": "Updated question",
+      "id": 2
+    },
+    {
+      "Question": "Updated question is done",
+      "id": 3
+    },
+    {
+      "Question": "vedangquestion",
+      "Option": [
+        "op4",
+        "sdfgsdf",
+        "sdfhgsdfgh",
+        "dfhgsdfgh"
+      ],
+      "Correctans": "2",
+      "Weightage": "2",
+      "id": 4
+    },
+    {
+      "Question": "what is your name",
+      "Option[]": [
+        "a",
+        "s",
+        "d",
+        "f"
+      ],
+      "Correctans": "2",
+      "Weightage": "1",
+      "id": 10
+    }
+  ]
+}
