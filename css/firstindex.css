@@ -1,0 +1,22 @@
+img{
+height: 700px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 50px;
+width: 50%;
+background-size: 100% 100%;
+}
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,28,121,1) 39%, rgba(0,212,255,1) 100%);
+}
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+    a{
+        width:80%; 
+    }
+}
+@media screen and (max-width:800px) {
+    a{
+        width:100%; 
+    }
+  }
